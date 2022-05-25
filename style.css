@@ -1,0 +1,40 @@
+html,
+body {
+	margin-left:  5em;
+	margin-right: 5em;
+	Padding:  0;
+	background-color: white;
+	text-align: left;
+}
+
+h1 {
+	padding: 0em;
+	margin: 2em;
+}
+
+hr{
+	margin:  2em;
+}
+
+nav ul {
+	padding:  1em;
+}
+
+ .nav {
+ 	padding:  0.5em;
+	margin: ;
+	width: 80%;
+	color: darkgrey;
+	display:  inline;
+	list-style-type: none;
+	font-size: 22px ;
+ 	text-align: left;
+ }
+
+ .sign {
+ 	padding:  0.5em;
+	color: darkgrey;
+	list-style-type: none;
+	font-size: 22px ;
+ 	text-align: right;
+ }
